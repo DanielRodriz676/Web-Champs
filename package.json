@@ -1,0 +1,24 @@
+{
+  "name": "web-champs",
+  "version": "1.0.0",
+  "description": "\"Implementação do https://www.tabnews.com.br para o https://curso.dev\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "{"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielRodriz676/Web-Champs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielRodriz676/Web-Champs/issues"
+  },
+  "homepage": "https://github.com/DanielRodriz676/Web-Champs#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
